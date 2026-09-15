@@ -7,7 +7,7 @@ Welcome to my corner of GitHub! I'm currently a student at **42 Network**, where
 - 👯 I’m looking to collaborate on: Cool indie game projects or anything that makes learning code more fun. 
 - 🤔 I’m looking for help with: Finding that one missing semicolon that crashed my entire project.
 - 💬 Ask me about: Life at 42 or my tactical maneuvers in *Squad*.
-- 📫 How to reach me: [Insert your email or social media link here]
+- 📫 How to reach me: www.linkedin.com/in/volkan-k-0a3538255
 - ⚡ Fun fact: I balance out the stress of "Segmentation faults" by playing *Squad* with my friends.
 
 <!--
